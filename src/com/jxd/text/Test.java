@@ -8,4 +8,8 @@ public class Test {
 	public String name2() {
 		return "dev";
 	}
+	public String name1() {
+		System.out.println("master");
+		return "1";
+	}
 }
